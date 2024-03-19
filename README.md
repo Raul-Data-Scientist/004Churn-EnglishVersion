@@ -17,6 +17,7 @@ This code confirmed that the directory was indeed different. To address this, I 
 ```python
 import os
 os.chdir(path)
+#Docstring: Change the current working directory to the specified path.
 ```
 
 This command changes the current working directory to the specified path. With this issue resolved, I was able to proceed with my analysis. Now, let's get started for real.
