@@ -1,3 +1,8 @@
+# Porfolio Churn with Python
+
+The orignal article is in [medium.com](https://medium.com/@raul-data-scientist)
+
+
 In my experience, I already have a pre-coding setup to streamline my analyses. So, I create a folder and put all the files inside it. However, when I attempted to read the file 'churn_data.csv' using Pandas to load it into a dataframe, the `read_csv` function returned an error stating that the file wasn't in the same directory, even though it was.
 
 To resolve this issue, I sought help from chatbots to find a solution. I discovered that the problem was due to the original file being created in another directory. To confirm this, I used the following code:
