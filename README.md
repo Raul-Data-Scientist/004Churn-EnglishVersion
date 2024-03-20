@@ -25,3 +25,7 @@ Feel free to explore the scripts and adapt them to your own churn analysis proje
 ## How to Contribute
 
 If you have any suggestions for improvements or additional features, feel free to open an issue or submit a pull request. Contributions are welcome!
+
+- You are in the English Version.
+- Portugues Version: [Portugues Version]([https://github.com/Raul-Data-Scientist/004Churn-PortugueseVersion-)
+
