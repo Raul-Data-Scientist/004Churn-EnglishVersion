@@ -21,3 +21,5 @@ os.chdir(path)
 ```
 
 This command changes the current working directory to the specified path. With this issue resolved, I was able to proceed with my analysis. Now, let's get started for real.
+
+UPDATE: Actually, all this was for knowledge, because actually it wasn't in the same directory. Pay attention next time! :)
