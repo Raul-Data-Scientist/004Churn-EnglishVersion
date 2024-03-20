@@ -1,7 +1,7 @@
 # Project Continuation: Churn Analysis Version 1.0
 
 This project is a continuation of version 1.0, which you can find in the following [article](https://medium.com/@raul-data-scientist/churn-em-app-de-delivery-sql-preditiva-ai-4519b014fd9e). All the context is described in this article.
-Article v. 1.1: [https://medium.com/@raul-data-scientist/python-vers%C3%A3o-1-1-churn-em-app-de-delivery-sql-preditiva-ai-e00bf8e7b958](https://medium.com/@raul-data-scientist/python-vers%C3%A3o-1-1-churn-em-app-de-delivery-sql-preditiva-ai-e00bf8e7b958)
+Article v. 1.1: [Version1.1](https://medium.com/@raul-data-scientist/python-vers%C3%A3o-1-1-churn-em-app-de-delivery-sql-preditiva-ai-e00bf8e7b958)
 
 
 ## Generalized Codes for Future Projects
