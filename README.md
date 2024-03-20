@@ -1,25 +1,16 @@
-# Porfolio Churn with Python
+# Project Continuation: Churn Analysis Version 1.0
 
-The orignal article is in [medium.com](https://medium.com/@raul-data-scientist)
+This project is a continuation of version 1.0, which you can find in the following [article](https://medium.com/@raul-data-scientist/churn-em-app-de-delivery-sql-preditiva-ai-4519b014fd9e). All the context is described in this article.
 
+## Generalized Codes for Future Projects
 
-In my experience, I already have a pre-coding setup to streamline my analyses. So, I create a folder and put all the files inside it. However, when I attempted to read the file 'churn_data.csv' using Pandas to load it into a dataframe, the `read_csv` function returned an error stating that the file wasn't in the same directory, even though it was.
+I utilized this project to develop generalized codes for use in future projects. Therefore, you can observe in the codes that they can be easily applied to another dataset, provided it is well-preprocessed beforehand.
 
-To resolve this issue, I sought help from chatbots to find a solution. I discovered that the problem was due to the original file being created in another directory. To confirm this, I used the following code:
+## Learning Experience
 
-```python
-import os
-print(os.getcwd())
-```
+It was an excellent learning experience to carry out the work initially in Excel and then in Python, ensuring that the values matched those in Excel. The creation of the codes took the same amount of time as creating a new Excel sheet, yet these same codes will serve equally well for other possible projects.
 
-This code confirmed that the directory was indeed different. To address this, I changed the working directory using:
+## English Version Repository
 
-```python
-import os
-os.chdir(path)
-#Docstring: Change the current working directory to the specified path.
-```
-
-This command changes the current working directory to the specified path. With this issue resolved, I was able to proceed with my analysis. Now, let's get started for real.
-
-UPDATE: Actually, all this was for knowledge, because actually it wasn't in the same directory. Pay attention next time! :)
+You are in the English Version.
+Portugues Version: 
