@@ -14,5 +14,5 @@ It was an excellent learning experience to carry out the work initially in Excel
 
 ## English Version Repository
 
-You are in the English Version.
-Portugues Version: [Portuguese Version](https://github.com/Raul-Data-Scientist/004Churn-PortugueseVersion-)
+- You are in the English Version.
+- Portugues Version: [Portuguese Version](https://github.com/Raul-Data-Scientist/004Churn-PortugueseVersion-)
