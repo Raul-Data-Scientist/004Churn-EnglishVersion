@@ -16,6 +16,7 @@ This journey has been an enriching learning experience for me. Starting from the
 
 - `data/`: Contains the dataset used for analysis.
 - `scripts/`: Includes all Python scripts for data preprocessing, EDA, model development, and evaluation.
+- `Directory.txt`: Bonus Learning Material.
 - `README.md`: You're currently reading it!
 
 ## Usage
